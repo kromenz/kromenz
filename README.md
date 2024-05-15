@@ -64,7 +64,6 @@ My immediate goal is to complete my degree, further enhancing my expertise in Co
 <!--Contact Section-->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/diogo-bernardes-48225a292/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -76,5 +75,4 @@ My immediate goal is to complete my degree, further enhancing my expertise in Co
   <a href="https://webport-gamma.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-</div>
 
