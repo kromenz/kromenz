@@ -78,4 +78,3 @@ My immediate goal is to complete my degree, further enhancing my expertise in Co
   </a>
 </div>
 
-</div>
