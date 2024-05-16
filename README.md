@@ -65,7 +65,7 @@ My immediate goal is to complete my degree, further enhancing my expertise in Co
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-bernardes-48225a292/" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/rafael-andré/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
