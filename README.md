@@ -53,7 +53,7 @@ My immediate goal is to complete my degree, further enhancing my expertise in Co
 <td width="40%">
 <p align="center">
   <a href="https://github.com/kromenz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kromenz&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kromenz&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
   </a>
 </p>
 </td>
@@ -63,7 +63,7 @@ My immediate goal is to complete my degree, further enhancing my expertise in Co
 
 <!--Contact Section-->
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Contact Mᴇ 🤝 </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-andré/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
