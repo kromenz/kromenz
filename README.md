@@ -2,12 +2,11 @@
 
 <!--Start Intro-->
 <p align="left">
-I'm Rafael André, a 20-year-old passionate about programming and computer systems. Currently, I am in my final year of a Computer Engineering degree at the Polytechnic Institute of Viana do Castelo. Throughout my studies, I have gained extensive knowledge and developed strong skills in this field.
+Hi, I’m Rafael André, a 20-year-old passionate about programming and computer systems. I have recently completed my Bachelor's degree in Computer Engineering at the Polytechnic Institute of Viana do Castelo and am currently at BorgWarner participating in the Summer Internship Program.
 
-I pride myself on being adaptable, communicative, and resilient. I thrive in team environments and am always seeking new challenges and opportunities for growth.
+Throughout my studies, I gained extensive knowledge and developed strong skills in this field. I take pride in being adaptable, communicative, and resilient. I thrive in team environments and am always seeking new challenges and opportunities for growth.
 
-My immediate goal is to complete my degree, further enhancing my expertise in Computer Engineering. I look forward to applying my knowledge and skills in a professional setting in the near future.
-
+My immediate goal is to make the most of my practical experience at BorgWarner and apply my knowledge and skills in a professional setting. I am excited to contribute and continue growing in my career in computer engineering.
 </p>
 <br>
 
