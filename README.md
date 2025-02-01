@@ -2,7 +2,7 @@
 
 <!--Start Intro-->
 <p align="left">
-Hi, I’m Rafael André, a 20-year-old passionate about programming and computer systems. I have recently completed my Bachelor's degree in Computer Engineering at the Polytechnic Institute of Viana do Castelo and finished the Summer Internship Program, at BorgWarner Viana TTT.
+Hi, I’m Rafael André, a 21-year-old passionate about programming and computer systems. I have recently completed my Bachelor's degree in Computer Engineering at the Polytechnic Institute of Viana do Castelo and i am doing a Professional Internship at BorgWarner Viana TTT.
 
 Throughout my studies, I gained extensive knowledge and developed strong skills in this field. I take pride in being adaptable, communicative, and resilient. I thrive in team environments and am always seeking new challenges and opportunities for growth.
 
