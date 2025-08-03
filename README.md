@@ -10,7 +10,6 @@ A results-driven Software Engineer with a Bachelor’s in Computer Engineering a
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
   <p align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,kotlin,cs,php" />
   </p>
@@ -31,17 +30,36 @@ A results-driven Software Engineer with a Bachelor’s in Computer Engineering a
   <br/><br/><br/>
 </div>
 
-<p align="center">
-  <a href="https://github.com/kromenz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kromenz&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
-  </a>
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+<img
+    src="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"
+    alt="readme stats"
+    style="width: calc(40% - 16px); max-width: 350px; height: auto; border-radius: 10px;"
+  />
+  <img
+    src="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    alt="top langs"
+    style="width: calc(40% - 16px); max-width: 350px; height: auto; border-radius: 10px;"
+  />
+  <img
+    src="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&theme=tokyonight&border_radius=10"
+    alt="streak stats"
+    style="width: calc(40% - 16px); max-width: 350px; height: auto; border-radius: 10px;"
+  />
+    <br>
+  <img
+    src="https://github-readme-stats-seven-green-72.vercel.app/api/wakatime?username=@kromenz&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    alt="waka time"
+    style="width: auto; max-height: 350px; border-radius: 10px;"
+  />
+</div>
 
 <br>
 
 <!--Contact Section-->
-
-<h2 align="center">🤝 Contact Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Feel Free to Contact Me 🤝 </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-andré/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
