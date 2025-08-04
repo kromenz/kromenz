@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kromenz.kromenz" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👾;+I'm+Rafael+André!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&color=9966CC&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👾;+I'm+Rafael+André!;" />
 </h1>
 <p align="center">
 A results-driven Software Engineer with a Bachelor’s in Computer Engineering and hands-on experience automating and optimizing production workflows. During internships at BorgWarner TTT, I built a Python-powered Jasper integration for automated report generation, created a full-stack suggestion app with supervisor evaluation and rewards workflows, and developed a SAP frontend featuring autonomous, corrective and preventive maintenance modules, SMS alerts, and Poka-Yoke error-proofing. Proficient in JavaScript/TypeScript, Node.js, React, Python, Golang and experienced with Docker, RabbitMQ, Postman and BI tools (PowerBI, Grafana, Kibana), I thrive on translating complex requirements into scalable, user-centric solutions. Bilingual (Portuguese native, English C1) and continuously learning new technologies, I’m eager to leverage my technical and collaborative skills to drive innovation and deliver measurable impact.
