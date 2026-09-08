@@ -61,22 +61,14 @@ Client work happens on a separate account, so the graph and the cards below cove
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=FFFFFF&title_color=1A9E70&icon_color=1A9E70&text_color=1F2328&border_color=D1D9E0" />
-    <img height="165" alt="Rafael's GitHub stats" src="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&hide=stars,issues,contribs&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&hide=stars,issues,contribs&bg_color=FFFFFF&title_color=1A9E70&icon_color=1A9E70&text_color=1F2328&border_color=D1D9E0" />
+    <img height="165" alt="Rafael's GitHub stats" src="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&hide=stars,issues,contribs&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=FFFFFF&title_color=1A9E70&icon_color=1A9E70&text_color=1F2328&border_color=D1D9E0" />
-    <img height="165" alt="Most used languages" src="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&border_radius=10&background=14141A&border=30363D&stroke=30363D&ring=34D399&fire=34D399&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=34D399&sideLabels=9198A1&dates=9198A1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&border_radius=10&background=FFFFFF&border=D1D9E0&stroke=D1D9E0&ring=1A9E70&fire=1A9E70&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A9E70&sideLabels=59636E&dates=59636E" />
-    <img height="165" alt="Contribution streak" src="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&border_radius=10&background=14141A&border=30363D&stroke=30363D&ring=34D399&fire=34D399&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=34D399&sideLabels=9198A1&dates=9198A1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML,jupyter%20notebook&langs_count=6&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML,jupyter%20notebook&langs_count=6&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=FFFFFF&title_color=1A9E70&icon_color=1A9E70&text_color=1F2328&border_color=D1D9E0" />
+    <img height="165" alt="Most used languages" src="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML,jupyter%20notebook&langs_count=6&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
   </picture>
 </p>
 
