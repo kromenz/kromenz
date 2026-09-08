@@ -51,6 +51,14 @@ At BorgWarner I built a SAP frontend for corrective, preventive and operator-led
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=FFFFFF&title_color=1A9E70&icon_color=1A9E70&text_color=1F2328&border_color=D1D9E0" />
     <img height="165" alt="Rafael's GitHub stats" src="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
@@ -67,14 +75,6 @@ At BorgWarner I built a SAP frontend for corrective, preventive and operator-led
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&border_radius=10&background=14141A&border=30363D&stroke=30363D&ring=34D399&fire=34D399&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=34D399&sideLabels=9198A1&dates=9198A1" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&border_radius=10&background=FFFFFF&border=D1D9E0&stroke=D1D9E0&ring=1A9E70&fire=1A9E70&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A9E70&sideLabels=59636E&dates=59636E" />
     <img height="165" alt="Contribution streak" src="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&border_radius=10&background=14141A&border=30363D&stroke=30363D&ring=34D399&fire=34D399&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=34D399&sideLabels=9198A1&dates=9198A1" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake.svg" />
-    <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
