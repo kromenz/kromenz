@@ -49,6 +49,8 @@ At BorgWarner I built a SAP frontend for corrective, preventive and operator-led
 
 ## `activity`
 
+Client work happens on a separate account, so the graph and the cards below cover this one only. They are the side projects, not the day job.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake-dark.svg" />
