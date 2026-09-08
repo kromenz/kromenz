@@ -1,75 +1,85 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kromenz.kromenz" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&color=34d399&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🦖;+I'm+Rafael+André!;" />
+  <img alt="Rafael André, Software Engineer" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1200&color=34D399&center=true&vCenter=true&width=520&height=60&lines=Rafael+Andr%C3%A9;Software+Engineer" />
 </h1>
+
 <p align="center">
-A results-driven Software Engineer with a Bachelor’s in Computer Engineering and hands-on experience automating and optimizing production workflows. During internships at BorgWarner TTT, I built a Python-powered Jasper integration for automated report generation, created a full-stack suggestion app with supervisor evaluation and rewards workflows, and developed a SAP frontend featuring autonomous, corrective and preventive maintenance modules, SMS alerts, and Poka-Yoke error-proofing. Proficient in JavaScript/TypeScript, Node.js, React, Python, Golang and experienced with Docker, RabbitMQ, Postman and BI tools (PowerBI, Grafana, Kibana), I thrive on translating complex requirements into scalable, user-centric solutions. Bilingual (Portuguese native, English C1) and continuously learning new technologies, I’m eager to leverage my technical and collaborative skills to drive innovation and deliver measurable impact.
+  <a href="https://ts-webport.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-14141A?style=for-the-badge&logo=vercel&logoColor=34D399&labelColor=14141A" /></a>
+  <a href="https://www.linkedin.com/in/rafael-andr%C3%A9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-14141A?style=for-the-badge&logo=linkedin&logoColor=34D399&labelColor=14141A" /></a>
+  <a href="mailto:andrerafael892@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-14141A?style=for-the-badge&logo=gmail&logoColor=34D399&labelColor=14141A" /></a>
 </p>
-<br>
 
+## `whoami`
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,kotlin,cs,php" />
-  </p>
+Software engineer at **Alongside**, delivering client platforms through RHY Consulting. Based in Ponte de Lima, Portugal.
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,express,flask,bootstrap,tailwind,prisma,dotnet,django" />
-  </p>
+I take the parts of a system where the hard bit is the machinery around the feature rather than the feature itself: provisioning that has to be idempotent, scoring that has to be reproducible, agents that need a review queue between what they propose and what the database accepts.
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,postman,docker,git,github,vercel,mysql,postgres,firebase,mongodb,rabbitmq" />
-  </p>
+## `now`
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+#### Access OS
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-<img
-    src="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"
-    alt="readme stats"
-    style="width: calc(40% - 16px); max-width: 350px; height: auto; border-radius: 10px;"
-  />
-  <img
-    src="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-    alt="top langs"
-    style="width: calc(40% - 16px); max-width: 350px; height: auto; border-radius: 10px;"
-  />
-  <img
-    src="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&theme=tokyonight&border_radius=10"
-    alt="streak stats"
-    style="width: calc(40% - 16px); max-width: 350px; height: auto; border-radius: 10px;"
-  />
-    <br>
-  <img
-    src="https://github-readme-stats-seven-green-72.vercel.app/api/wakatime?username=@kromenz&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-    alt="waka time"
-    style="width: auto; max-height: 350px; border-radius: 10px;"
-  />
-</div>
+Sole engineer on an internal deal-sourcing platform for a private equity firm, replacing four legacy applications with one system.
 
-<br>
+- Autonomous agents sweep the web for companies matching an investment thesis, behind a run state machine, per-run scope freezing, budget ceilings, and a human-review queue before anything is written.
+- Geographic scoring across 8.1 million county-level facts, with versioned methodologies: the same version always yields the same score. A sandboxed evaluator lets analysts write scoring expressions without arbitrary code execution.
+- Anti-fabrication by design. A blank field means "not searched", `NOT_FOUND` means "searched and absent", and every fact carries its source.
 
-<!--Contact Section-->
-<h2 align="center">🤝 Feel Free to Contact Me 🤝 </h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafael-andré/" target="_blank" style="margin-right: 10px;">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:andrerafael892@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://webport-gamma.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+#### The Cusp
+
+A payment becomes a live website with zero manual steps. Stripe Checkout, then webhook-driven idempotent provisioning: repo creation, Vercel project, triggered deploy polled to completion, and self-serve custom domains. Site suspension and restore follow the subscription.
+
+## `stack`
+
+<img alt="TypeScript, Next.js, React, Node.js, Python, PostgreSQL, Prisma, Tailwind, Docker, AWS, Vercel, Git" src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,postgres,prisma,tailwind,docker,aws,vercel,git" />
+
+Day to day that is TypeScript on Next.js, Postgres behind Prisma, Python for the agent work, and the Anthropic SDK when a problem is better solved by a model than by a rule.
+
+## `history`
+
+| Where | Role | When |
+| --- | --- | --- |
+| **Alongside** | Software Engineer | 2026 - Present |
+| **Worldover** | Junior Backend Developer | Nov 2025 - Jun 2026 |
+| **BorgWarner** | Software Developer Intern | Sep 2024 - Jun 2025 |
+| **BorgWarner** | Summer Internship | Jul 2024 - Aug 2024 |
+
+At Worldover I owned the reporting and document system of a B2B compliance platform: a configurable document engine producing DOCX, Excel and PDF exports, built on TypeScript, tRPC and Next.js over AWS Neptune with Gremlin. I also worked on the company's move to an agentic architecture, as developer and architect on the document and reporting systems.
+
+At BorgWarner I built a SAP frontend for corrective, preventive and operator-led maintenance, with SMS alerts to technicians and automated shift reporting, alongside Python and JasperReports automation for the production lines.
+
+## `activity`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=FFFFFF&title_color=1A9E70&icon_color=1A9E70&text_color=1F2328&border_color=D1D9E0" />
+    <img height="165" alt="Rafael's GitHub stats" src="https://github-readme-stats-seven-green-72.vercel.app/api?username=kromenz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=FFFFFF&title_color=1A9E70&icon_color=1A9E70&text_color=1F2328&border_color=D1D9E0" />
+    <img height="165" alt="Most used languages" src="https://github-readme-stats-seven-green-72.vercel.app/api/top-langs/?username=kromenz&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=14141A&title_color=34D399&icon_color=34D399&text_color=E2E8F0&border_color=30363D" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&border_radius=10&background=14141A&border=30363D&stroke=30363D&ring=34D399&fire=34D399&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=34D399&sideLabels=9198A1&dates=9198A1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&border_radius=10&background=FFFFFF&border=D1D9E0&stroke=D1D9E0&ring=1A9E70&fire=1A9E70&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A9E70&sideLabels=59636E&dates=59636E" />
+    <img height="165" alt="Contribution streak" src="https://github-readme-streak-stats-dusky-iota.vercel.app/?user=kromenz&count_private=true&border_radius=10&background=14141A&border=30363D&stroke=30363D&ring=34D399&fire=34D399&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=34D399&sideLabels=9198A1&dates=9198A1" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/kromenz/kromenz/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub><code>$</code> open <a href="https://ts-webport.vercel.app">ts-webport.vercel.app</a> for the long version</sub>
+</p>
