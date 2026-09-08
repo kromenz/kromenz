@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ts-webport.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-14141A?style=for-the-badge&logo=vercel&logoColor=34D399&labelColor=14141A" /></a>
-  <a href="https://www.linkedin.com/in/rafael-andr%C3%A9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-14141A?style=for-the-badge&logo=linkedin&logoColor=34D399&labelColor=14141A" /></a>
+  <a href="https://www.linkedin.com/in/rafael-andr%C3%A9/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-14141A?style=for-the-badge&logo=linkedin&logoColor=34D399&labelColor=14141A" /></a>
   <a href="mailto:andrerafael892@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-14141A?style=for-the-badge&logo=gmail&logoColor=34D399&labelColor=14141A" /></a>
 </p>
 
